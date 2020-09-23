@@ -116,8 +116,11 @@ p{
 .contactus,
 .ourteam{
 	text-align: center;
-	padding: 5% 10%;
+	padding: 1% 2%;
 	background:lightskyblue;
+}
+.about{
+	padding: 5% 10%;
 }
 .about h1{
 	color: green;
@@ -153,6 +156,7 @@ p{
 .diff_services .diff_services_item {
     width: 30%;
 }
+
 
 .diff_services .diff_services_item img {
     width: 100%;
@@ -280,7 +284,8 @@ p{
 		text-transform: capitalize;
 		font-size: 24px;
 	}
-
+	.diff_services .diff_services_item h3{
+		font-size: 10px;
 }
 
 
